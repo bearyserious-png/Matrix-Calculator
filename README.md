@@ -9,7 +9,7 @@ You can choose between different options:
         4. multiply a matrix by a user-given scalar value (AxNum)
         5. find the transpose of a matrix (At)
         6. find the rank of a matrix (r(A)) - WIP - 
-	 0. exit the program
+	0. exit the program
 
 
 It's a little project to practice a bit of programming and C while preparing math-focused exams for UNI. Might expand it someday.
