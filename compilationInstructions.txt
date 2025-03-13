@@ -1,0 +1,6 @@
+//how to compile and execute the project files on command line
+
+gcc -c matrOps.c
+gcc -c main.c 
+gcc -std=c99 -o out matrOps.o main.o
+./out 
