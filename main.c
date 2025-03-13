@@ -6,6 +6,7 @@ Matrix Operations Calculator:
 - transpose of A
 - rank of A 
 */
+#include "matrOps.h"
 #include <stdio.h>
 
 int main() {
